@@ -46,9 +46,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Febin-T-Rajeev/github-readme-activity-graph"><img alt="Febin-T-Rajeev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Febin-T-Rajeev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 <br/>
 
 ## Connect with me:

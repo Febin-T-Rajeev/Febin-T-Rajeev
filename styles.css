@@ -1,0 +1,55 @@
+body {
+    font-family: 'Indie Flower', cursive;
+    background-color: grey;
+    background-image: url(https://unsplash.it/g/1920/?blur);
+    background-size: cover;
+    margin: 0;
+    padding-top: 80px;
+    padding-bottom: 80px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* #content-wrapper {
+    width: 800px; 
+    height: 1000px; 
+    margin: 0;
+    padding: 2rem;
+    background-color: khaki;
+    border-radius: .2rem;
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.3);
+    overflow-y: auto; 
+} */
+#content-wrapper {
+    width: 800px; /* Fixed width for the "paper" */
+    height: 1000px; /* Fixed height for the "paper" */
+    margin: 0;
+    padding: 2rem;
+    background-color: khaki;
+    background-image: url('./src/grunge-wall-texture.jpg'); /* Add your dust texture image */
+    background-size: cover; /* Adjusts the size of the texture image */
+    background-blend-mode: multiply; /* Blends the texture with the background color */
+    border-radius: .2rem;
+    box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.3);
+    overflow-y: auto; /* Scroll if content overflows */
+}
+
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+    color: white; /* Optional: adjust text color for better contrast */
+}
+
+#content {
+    font-family: 'Indie Flower', cursive; /* Changed to match heading font */
+    margin: 0 auto;
+    width: 90%;
+    color: #575757; /* Optional: adjust text color for better contrast */
+}
+
+p {
+    line-height: 1.6; /* Optional: improves readability */
+}

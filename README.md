@@ -64,3 +64,13 @@
     <img src="https://komarev.com/ghpvc/?username=Febin-T-Rajeev">
 </a>
 <a href="https://github.comFebin-T-Rajeev?tab=followers"><img src="https://img.shields.io/github/followers/Febin-T-Rajeev?label=Followers&style=social" alt="GitHub Badge"></a>
+
+## Star History
+
+<a href="https://www.star-history.com/#Febin-T-Rajeev/Flutter-Facebook-UI-Clone&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Febin-T-Rajeev/Flutter-Facebook-UI-Clone&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Febin-T-Rajeev/Flutter-Facebook-UI-Clone&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Febin-T-Rajeev/Flutter-Facebook-UI-Clone&type=Date" />
+ </picture>
+</a>

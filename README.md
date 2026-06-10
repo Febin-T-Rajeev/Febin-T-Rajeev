@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9uYzc2MWJoemphY3Uyb2RvOWp2MXJhM3I4a2w4dXF3OTNjM254aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif" width="30px">, I'm Febin T Rajeev</h1>
+<h1 align="center">Hi, I'm Febin T Rajeev</h1>
 <h3 align="center">I'm a passionate Developer from India.</h3>
 
 

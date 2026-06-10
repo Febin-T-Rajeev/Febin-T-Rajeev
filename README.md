@@ -1,22 +1,22 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Febin T Rajeev</h1>
+<h1 align="center">Hi <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm9uYzc2MWJoemphY3Uyb2RvOWp2MXJhM3I4a2w4dXF3OTNjM254aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/111ebonMs90YLu/giphy.gif" width="30px">, I'm Febin T Rajeev</h1>
 <h3 align="center">I'm a passionate Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🔭 I’m currently working as software engineer
+-  I’m currently working as software engineer
 
-- 👯 Self taught developer
+-  Self taught developer
 
-- 👨‍💻 All of my projects are available at my Github page
+-  All of my projects are available at my Github page
 
-- 📫 How to reach me **febintrajeev141@gmail.com**
+-  How to reach me **febintrajeev141@gmail.com**
 
-- ⚡ Fun fact **I play games and design 3d models.**
+-  Fun fact **I play games and design 3d models.**
 
-## 🚀 Languages and Tools:
+## Languages and Tools
 
 <p align="left"> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -32,7 +32,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-## Connect with me:
+## Connect with me
 <p align="left">
 
 <a href = "https://in.linkedin.com/in/febin-t-rajeev-43711b20a"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -42,7 +42,11 @@
 
 </p>
 
-## ❤ Views and Followers
+## Stats
+
+[![Febin T Rajeev's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Febin-T-Rajeev\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
+##  Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Febin-T-Rajeev">
 </a>
